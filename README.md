@@ -1,0 +1,3 @@
+I updated NNEBF's Spear Pillar Omega Form and included a Battlefield Form and added Legendary Pokémon Dialga, Palkia, Giratina, Cresselia, Darkrai and Arceus with their own color tints. Dialga, Palkia and Giratina come with their Altered Formes and Origin Formes. Dialga appears with a blue tint, Palkia appears with a pink tint, Giratina appears with a red tint, Cresselia appears with a default green tint, Darkrai appears with a pitch black tint and Arceus appears with a yellow tint.
+
+Gamebanana: https://gamebanana.com/mods/452350
